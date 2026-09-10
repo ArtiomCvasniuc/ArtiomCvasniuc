@@ -2,7 +2,7 @@
 
 ---
 
-I'm a **Software Developer** with over 6 years of experience in web and mobile development. I specialize in creating highly interactive user interfaces and efficient backends, working across multiple stacks.
+I'm a **Software Developer** with over 8 years of experience in web and mobile development. I specialize in creating highly interactive user interfaces and efficient backends, working across multiple stacks.
 
 ### 👨‍💻 About Me:
 - 🚀 **Frontend**: HTML5, CSS, LESS, SASS, React.js, Next.js, TypeScript, JavaScript (ES6+), Vue.js, Svelte.js, Bootstrap, Material UI, Tailwind, Smarty, Twig
